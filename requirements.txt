@@ -1,0 +1,2 @@
+fastmcp==2.12.2
+pysqlit>=0.2.2
