@@ -1,7 +1,6 @@
 import os
-import logging
 import sys
-
+import logging
 from pysqlit.pysqlit_api import Pysqlit_API
 from fastmcp import FastMCP
 
