@@ -1,10 +1,10 @@
 [project]
 name = "PySqlitMCP"
-version = "0.2.6"
+version = "0.2.7"
 description = "A database operation toolkit based on FastMCP framework and PySqlit library for complete SQLite database management"
 readme = "README.md"
 requires-python =">=3.11"
 dependencies = [
     "fastmcp>=2.12.2",
-    "pysqlit>=0.2.5",
+    "pysqlit>=0.2.6.3",
 ]
