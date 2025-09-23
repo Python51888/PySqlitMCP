@@ -248,7 +248,7 @@ uv sync
 
 - Python >= 3.11
 - [FastMCP](https://github.com/YourRepo/FastMCP) >= 2.12.2
-- [PySqlit](https://github.com/YourRepo/PySqlit) >= 0.2.2
+- [PySqlit](https://github.com/YourRepo/PySqlit) >= 0.2.5
 
 ## 许可证
 
