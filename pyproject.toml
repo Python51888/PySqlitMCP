@@ -5,6 +5,6 @@ description = "A database operation toolkit based on FastMCP framework and PySql
 readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
-    "fastmcp==2.12.2",
+    "fastmcp>=2.12.2",
     "pysqlit>=0.2.2",
 ]
