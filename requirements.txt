@@ -1,2 +1,2 @@
-pysqlit>=0.2.5
+pysqlit>=0.2.6.3
 FastMCP>=2.12.2
